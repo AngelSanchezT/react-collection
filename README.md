@@ -24,4 +24,4 @@
  - [Hacking.with.React](/ebooks/Hacking.with.React.pdf)
  - [Introduction to React.pdf](/ebooks/Introduction to React.pdf)
  - [Pro React.pdf](/ebooks/Pro React.pdf)
- - [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用.pdf](React+Node.js+MongoDB+Socket.IO dev.pdf)
+ - [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用.pdf](/ebooks/React+Node.js+MongoDB+Socket.IO dev.pdf)
