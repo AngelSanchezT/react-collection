@@ -18,6 +18,8 @@
  - [Airbnb React编码规范](http://zhuanlan.zhihu.com/FrontendMagazine/20616464)
  - [Babel 入门教程](http://www.ruanyifeng.com/blog/2016/01/babel.html)
  - [React 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial/details)
+ - [[译]看这些文章，足够你学好redux](https://segmentfault.com/a/1190000004212752)
+ - [react-webpack-cookbook](https://fakefish.github.io/react-webpack-cookbook/index.html)
 
 ## 电子书
 
